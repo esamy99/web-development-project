@@ -1,0 +1,19 @@
+body{
+    /*background-image: url("../img/m1.png");*/
+    background-color: #e9ecef;
+}
+#bg{
+    background-image: url("../img/m6.jpg");
+}
+#legend{
+    color: #005cbf;
+}
+.color{
+    color: #000000;
+    font-style: oblique;
+    font-size: 1.3rem;
+}
+.bgform{
+    background-color: #e9ecef;
+    border-radius: 25%;
+}

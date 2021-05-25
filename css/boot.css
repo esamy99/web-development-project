@@ -1,0 +1,39 @@
+.all{
+    margin: 50px;
+    background-color: blanchedalmond;
+    border-radius: 100px;
+    border: auto;
+    border-color: black;
+    padding: 30px;
+    width: 50%;
+}
+.all:hover{
+    width: 80%;
+}
+.form-group{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.m{
+    color: rgb(22, 7, 16);
+    font-size: 40px;
+
+}
+#email{
+    width: 30%;
+}
+#pwd{
+    width: 30%;
+}
+.but
+{
+    margin-left: 280px;
+    background-color:white;
+    width: 100px;
+    height: 50px;
+    color: black;
+}
+#sign{
+    position: relative;
+    left: 50px;
+}
